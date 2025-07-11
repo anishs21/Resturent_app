@@ -31,6 +31,20 @@
       "mobile": 3164631649,
       "password": "passowrd@123",
       "id": 2
+    },
+    {
+      "name": "Anisha",
+      "email": "anisha@gamil.com",
+      "mobile": 7558155032,
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "anisha",
+      "email": "anishasivasubramani@gmail.com",
+      "mobile": 7558155032,
+      "password": "hello",
+      "id": 4
     }
   ],
   "comments": [],
